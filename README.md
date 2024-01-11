@@ -4,6 +4,10 @@ To view the analysis go to: Documentation/Questions with solutions.pdf
 
 This document outlines a series of critical questions based on a healthcare dataset 📊. These questions are designed to cover significant business and healthcare aspects, crucial for healthcare agencies, hospitals, and medical professionals 💉. Answering these questions using SQL techniques and Tableau visualizations will provide valuable insights into patient demographics, healthcare utilization, costs, and the effectiveness of healthcare services.
 
+## Tableau Output
+![Dashboard 1](https://github.com/prayagpadwal/Flu-Shot-Data-Analysis-using-PostgreSQL-and-Tableau/assets/65147413/2b183130-0eec-4881-b5fe-47e49507ee6b)
+
+
 ## 📈 Analysis Questions
 
 ### 📆 Section 1: Annual Flu Shot Statistics by Demographics
