@@ -1,5 +1,9 @@
 # 🏥 Flu Shot Data Analysis using PostgreSQL and Tableau
 To view the analysis go to: Documentation/Questions with solutions.pdf
+Medium: https://medium.com/@padwalprayag 
+Tableau: https://public.tableau.com/app/profile/prayag.padwal/vizzes
+LinkedIn: https://www.linkedin.com/in/prayagpadwal/
+
 ## 📋 Introduction
 
 This document outlines a series of critical questions based on a healthcare dataset 📊. These questions are designed to cover significant business and healthcare aspects, crucial for healthcare agencies, hospitals, and medical professionals 💉. Answering these questions using SQL techniques and Tableau visualizations will provide valuable insights into patient demographics, healthcare utilization, costs, and the effectiveness of healthcare services.
